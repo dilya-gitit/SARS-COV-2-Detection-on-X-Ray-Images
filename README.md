@@ -1,2 +1,3 @@
 # SARS-COV-2-Detection-on-X-Ray-Images
 ResNet-18 model created and trained to recognise Covid-19 with Chest X-Rays using PyTorch and kaggle dataset
+https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
